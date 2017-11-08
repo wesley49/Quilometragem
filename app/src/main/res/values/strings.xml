@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quilometragem</string>
+
+    <string-array name="mes">
+
+        <item name="janeiro">Janeiro</item>
+        <item name="fevereiro">Fevereiro</item>
+        <item name="março">Março</item>
+        <item name="abril">Abril</item>
+        <item name="maio">Maio</item>
+        <item name="junho">Junho</item>
+        <item name="julho">Julho</item>
+        <item name="agosto">Agosto</item>
+        <item name="setembro">Setembro</item>
+        <item name="outubro">Outubro</item>
+        <item name="novembro">Novembro</item>
+        <item name="dezembro">Dezembro</item>
+
+    </string-array>
+</resources>
